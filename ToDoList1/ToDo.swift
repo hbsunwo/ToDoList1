@@ -7,10 +7,7 @@
 
 import UIKit
 
-class name {
-    
-}
-
-class imporant {
-    
+class ToDo {
+    var name = ""
+    var important = false
 }
